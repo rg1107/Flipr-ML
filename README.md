@@ -13,7 +13,7 @@ It is present in Test_dataset.xlsx
 
 It is present in Variable_Description.xlsx
 
-### Diuresis.csv file contains the Diuresis values from 20-March till 27-March 2020 (Includes Model Prediction)
+### Diuresis.csv file contains the Diuresis values from 20-March till 27-March 2020 (Includes time series model Prediction)
 
 ## Models and Steps taken are described in Solution_Sheet.pdf
 
